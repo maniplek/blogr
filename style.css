@@ -771,11 +771,11 @@ a {
         -ms-flex-pack: start;
             justify-content: flex-start;
   }
-}
-/*# sourceMappingURL=style.css.map */
+ }
+ /*# sourceMappingURL=style.css.map */
 
-/* _section */
-.section {
+ /* _section */
+ .section {
   /* //border: 1px solid black; */
   display: flex;
   flex-direction: column;
